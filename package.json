@@ -1,0 +1,16 @@
+{
+  "name": "swiftlyfound",
+  "productName": "SwiftlyFound",
+  "version": "1.0.0",
+  "description": "web scrapper app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rodrigo Jimenez",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.2.0",
+    "sweetalert2": "^11.4.8"
+  }
+}
